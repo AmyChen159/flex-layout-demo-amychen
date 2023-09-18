@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+    box-sizing: border-box;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+.card {
+    width: 27 vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+.card-title {
+
+}
+.card-img { 
+    width: 50%;
+    text-transform: uppercase;
+}
